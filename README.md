@@ -17,10 +17,9 @@ This project demonstrates how intelligent search algorithms find the shortest pa
 
 ---
 ## 📸 Screenshot
+	
 
-<img width="1061" height="153" alt="image" src="https://github.com/user-attachments/assets/1c97cc5d-0397-4fbc-8c8f-8ec2eb9e8f87" />
-
-
+![AI Maze Solver Demo](screenshot.png)
 
 
 

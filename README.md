@@ -60,7 +60,5 @@ This project demonstrates how intelligent search algorithms find the shortest pa
 ```bash
 pip install pygame
 python main.py
-
-```bash
 pip install pygame
 python main.py

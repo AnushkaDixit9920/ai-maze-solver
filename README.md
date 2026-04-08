@@ -16,10 +16,25 @@ This project demonstrates how intelligent search algorithms find the shortest pa
 - 🧩 Interactive UI with buttons  
 
 ---
+
+
+## 🎨 Color Legend
+
+- 🟢 **Green** → Start node  
+- 🔴 **Red** → End node  
+- ⚫ **Black** → Obstacles / walls  
+- 🔵 **Blue** → Nodes explored during search  
+- 🟣 **Purple** → Shortest path found  
+- ⚪ **White** → Unvisited cells  
+
+---
 ## 📸 Screenshot
 	
 ![AI Maze Solver Demo](screenshot.png)
 
+
+
+---
 
 
 ## 🧠 Algorithms Used

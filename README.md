@@ -57,5 +57,7 @@ This project demonstrates how intelligent search algorithms find the shortest pa
 
 ## ▶️ How to Run
 
--pip install pygame
--python main.py
+- pip install pygame
+- python main.py
+---
+
